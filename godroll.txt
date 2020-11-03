@@ -1,0 +1,43 @@
+title: taran's curated list of opinionated god/good rolls (disclaimer: pvp oriented)
+
+// False Promises
+// notes:"expect 600rpm autos to be nerfed, good futureproof potential but i think mostly pvp weapon"|tags:pvp
+dimwishlist:item=3143732432&perks=839105230,1561002382,1359896290,699525795,758092021
+dimwishlist:item=3143732432&perks=839105230,1561002382,1359896290,699525795,186337601
+dimwishlist:item=3143732432&perks=839105230,1885400500,1359896290,699525795,758092021
+dimwishlist:item=3143732432&perks=839105230,1885400500,1359896290,699525795,186337601
+dimwishlist:item=3143732432&perks=839105230,1561002382,2450788523,3425386926,758092021
+dimwishlist:item=3143732432&perks=839105230,1561002382,2450788523,3425386926,186337601
+dimwishlist:item=3143732432&perks=839105230,1885400500,2450788523,3425386926,758092021
+dimwishlist:item=3143732432&perks=839105230,1885400500,2450788523,3425386926,186337601
+
+// Crimil's Dagger
+// notes:"have not really used this gun at all, but it may become a strong weapon after the rpm/range buff to aggressive frames, so it's worth looking out for"|tags:pvp
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,47981717,2697220197
+dimwishlist:item=4292849692&perks=1926090095,3142289711,588594999,47981717,2697220197
+dimwishlist:item=4292849692&perks=1926090095,3142289711,588594999,3038247973,2697220197
+dimwishlist:item=4292849692&perks=1926090095,3142289711,1168162263,1015611457,2697220197
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,3038247973,2697220197
+
+// True Prophecy
+// notes:"decent gun in pve but suffers a lot from bad reload speed. would opt for any reload boosting perks in the 2nd column, as well as a reload mw."|tags:pve
+dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3038247973,758092021
+dimwishlist:item=2742838700&perks=1926090094,4134353779,3643424744,3038247973,758092021
+dimwishlist:item=2742838700&perks=1926090094,3230963543,3643424744,3038247973,758092021
+dimwishlist:item=2742838700&perks=1926090094,106909392,1954620775,3523296417,758092021
+dimwishlist:item=2742838700&perks=1926090094,3230963543,1954620775,3523296417,758092021
+dimwishlist:item=2742838700&perks=1926090094,4134353779,1954620775,3523296417,758092021
+
+// True Prophecy
+// notes:"in pvp, i can definitely see this gun being worthwhile to have after its archetype recieves the rpm/range buff"|tags:pvp
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973,2697220197
+dimwishlist:item=2742838700&perks=1926090095,3142289711,47981717,3038247973,2697220197
+dimwishlist:item=2742838700&perks=1926090095,3142289711,47981717,3425386926,2697220197
+
+// True Prophecy
+// notes:"this roll specifically benefits from exactly 68 stability, which reduces the amount of visual recoil made by the gun. this applies to ALL handcannons of any type"|tags:pvp
+
+
+
+
+
