@@ -6150,6 +6150,14 @@ dimwishlist:item=1289997971&perks=4090651448,1087426260,3124871000,1774574192,75
 //notes:while having a higher seasonal cap than the likes of Last Hope, Last Dance is ultimately inferior in almost every way possible. i cannot recommend keeping this gun at all.
 dimwishlist:item=-2009277538&perks=
 
+// Lonesome
+//notes:why you would subject yourself to clicking 10 billion times with a god roll and no full auto? no clue cause i won't
+dimwishlist:item=-2199171672&perks=
+
+// Enigma's Draw
+//notes:do not under any circumstance bother using or keeping this weapon without full auto. unless you enjoy clicking for 20 seconds straight in order to kill a fucking exploding thrall
+dimwishlist:item=-1723380073&perks=
+
 //  Submachine Guns
 
 // IKELOS_SMG_V1.0.2
