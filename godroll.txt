@@ -296,8 +296,29 @@ dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,2458213969
 dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969
 dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,2458213969
 
-//  Submachine Guns
+// Breachlight
+//notes:"(PvP): i have actually found some successful use out of this weapon in pvp. not exactly meta-breaking but it is viable. recommended MW: reload/range/stability"|tags:pvp
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,1546637391
+dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,3425386926
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,3425386926
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,2458213969
+dimwishlist:item=1289997971&perks=839105230,3142289711,1168162263,2458213969
+dimwishlist:item=1289997971&perks=839105230,3142289711,1168162263,1546637391
+dimwishlist:item=1289997971&perks=839105230,3142289711,1168162263,3425386926
 
+// Breachlight
+//notes:"(PvE): semi-useful weapon, just suffers from having to constantly click which ends up tiring for my poor fingie. recommended MW: range/reload"|tags:pve
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,1546637391
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,3425386926
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,2458213969
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,2458213969
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,1546637391
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,3425386926
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,3425386926
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,1546637391
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,2458213969
+
+//  Submachine Guns
 
 // IKELOS_SMG_V1.0.2
 //notes:"(PvP): a solid choice and with the right roll, i find it to be great in most situations. recommended MW: range/handling"|tags:pvp
@@ -313,7 +334,6 @@ dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1683379515
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201
 
 //  Bows
-
 
 // Accrued Redemption
 //notes:"don't really play around with bows too often but this one is good to have for futureproofing. recommended MW: draw time"|tags:pve
@@ -332,7 +352,6 @@ dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3523296417
 dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,1546637391
 dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,47981717
 dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,47981717
-
 
 // Tyranny Of Heaven
 //notes:"have never come across this bow either, but i think can be an OK replacement for hush, mostly for the solar shields. recommended MW: draw time"|tags:pve
@@ -453,7 +472,6 @@ dimwishlist:item=3745990145&perks=893526895,3142289711,280464955,588594999
 dimwishlist:item=3745990145&perks=893526895,106909392,957782887,588594999
 dimwishlist:item=3745990145&perks=893526895,1087426260,957782887,588594999
 
-
 // Long Shadow
 //notes:"(PvE) this is a decent enough sniper for pve, with a decent perk pool. also will have to wait on what kind of snipers get released later on. recommended MW: reload"|tags:pve
 dimwishlist:item=3745990145&perks=893526892,2420895100,247725512,3400784728
@@ -462,7 +480,6 @@ dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728
-
 
 // IKELOS_SR_V1.0.2
 //notes:"not exactly the best pve or pvp sniper, but i figure quickdraw - moving target is still something worth having, especially with the hidden bonuses that seraph rounds possesses. recommended MW: range"|tags:pvp
