@@ -450,6 +450,9 @@ dimwishlist:item=3164743584&perks=1840239774,3142289711,280464955,1546637391
 //notes:"(PvP): could potentially be a viable kinetic sniper with the aim assist buffs with higher-zoomed scopes. will have to be wary of better snipers once they are introduced. recommended MW: range/handling"|tags:pvp
 dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999
 dimwishlist:item=3745990145&perks=893526895,3142289711,280464955,588594999
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,588594999
+dimwishlist:item=3745990145&perks=893526895,1087426260,957782887,588594999
+
 
 // Long Shadow
 //notes:"(PvE) this is a decent enough sniper for pve, with a decent perk pool. also will have to wait on what kind of snipers get released later on. recommended MW: reload"|tags:pve
@@ -459,6 +462,7 @@ dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728
+
 
 // IKELOS_SR_V1.0.2
 //notes:"not exactly the best pve or pvp sniper, but i figure quickdraw - moving target is still something worth having, especially with the hidden bonuses that seraph rounds possesses. recommended MW: range"|tags:pvp
