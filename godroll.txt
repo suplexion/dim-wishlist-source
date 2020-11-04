@@ -6836,7 +6836,7 @@ dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887
 //  Fusion Rifles
 
 // Elatha FR4
-//notes: (PvE): HAHA fusions in pve are irrelevant|tags:pve
+//notes: (PvE/PvP): HAHA fusions in pve are irrelevant though to be fair elatha can get a bye due to the fact it DOES roll with quickdraw, which is typically a better perk than backup plan due to the overall boost in handling over just one swap every so often|tags:pve,pvp
 dimwishlist:item=-4106983932
 
 // Timeline's Vertex
