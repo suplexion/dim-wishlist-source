@@ -29,6 +29,9 @@ dimwishlist:item=1907698332&perks=839105230,1561002382,588594999,3511092054
 dimwishlist:item=1907698332&perks=839105230,1885400500,1359896290,3425386926
 dimwishlist:item=1907698332&perks=839105230,1561002382,1359896290,3425386926
 
+// The Summoner
+//notes:"definitely a dominant auto overall, but will definitely benefit with perks that control recoil or push out range as it possesses good overall handling/reload stats.
+
 // Reckless Oracle
 //notes:"a strong alternative to the current 600rpm auto meta. possesses lowest bodyshot ttk of any auto rifle frame. recommended MW: range/handling"|tags:pvp
 dimwishlist:item=3385326721&perks=839105230,1885400500,1890422124,1015611457
