@@ -4624,7 +4624,7 @@ dimwishlist:item=625672050&perks=
 
 // Last Perdition
 //notes:do not like this gun either, it's simply just bad and unappealing when cold denial and other pulses exist.
-dimwishlist:item=188882152&perks=
+dimwishlist:item=-188882152&perks=
 
 //  Scout Rifles
 
@@ -6148,7 +6148,7 @@ dimwishlist:item=1289997971&perks=4090651448,1087426260,3124871000,1774574192,75
 
 // The Last Dance
 //notes:while having a higher seasonal cap than the likes of Last Hope, Last Dance is ultimately inferior in almost every way possible. i cannot recommend keeping this gun at all.
-dimwishlist:item=2009277538&perks=
+dimwishlist:item=-2009277538&perks=
 
 //  Submachine Guns
 
@@ -6906,17 +6906,21 @@ dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761
 dimwishlist:item=958384347&perks=981914802,3796465595,3977735242,1275731761,1154004463
 dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,2284787283,3803457565
 
+// Apex Predator
+//notes:honestly had it been able to roll with both cluster AND auto-loading i probably would be looking for one. but it doesn't. and it has nothing outstanding about it. personally do not recommend keeping this.
+dimwishlist:item=-2545083870&perks=
+
 //  Linear Fusion Rifles
 
 //  Machine Guns
 
 // Avalanche
 //notes: (???  ???): IT SUCKS LOL
-dimwishlist:item=66875353&perks=
+dimwishlist:item=-66875353&perks=
 
 // Temporal Clause
 //notes: (???  ???): really bad gun desperately needs buff i would not keep this regardless
-dimwishlist:item=3369545945&perks=
+dimwishlist:item=-3369545945&perks=
 
 
 //  Swords
