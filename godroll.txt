@@ -31,6 +31,7 @@ dimwishlist:item=1907698332&perks=839105230,1561002382,1359896290,3425386926
 
 // The Summoner
 //notes:"definitely a dominant auto overall, but will definitely benefit with perks that control recoil or push out range as it possesses good overall handling/reload stats.
+dimwishlist:item=1907698332
 
 // Reckless Oracle
 //notes:"a strong alternative to the current 600rpm auto meta. possesses lowest bodyshot ttk of any auto rifle frame. recommended MW: range/handling"|tags:pvp
@@ -40,6 +41,9 @@ dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,1015611457
 dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,1015611457
 dimwishlist:item=3385326721&perks=839105230,679225683,1890422124,1015611457
 dimwishlist:item=3385326721&perks=839105230,679225683,1168162263,1015611457
+
+// Reckless Oracle
+//notes:"holds promise, possesses the lowest bodyshot ttk of any auto archetype. most likely will not be very viable in pve looking at its perk pool. with some recoil control/stability and a bit more range to help tighten your shots at range, this can definitely rival more dominant/meta weapons.
 
 // Gnawing Hunger
 //notes:"(PvE): the combination of subsistence + rampage or demolitionist makes this a solid choice for most content. unfortunately it will see nerfs in BL, but i think it won't affect it too much unless there are more nerfs coming. recommended MW: range/reload"|tags:pve
