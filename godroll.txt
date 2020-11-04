@@ -6839,6 +6839,10 @@ dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887
 //notes: (PvE): HAHA fusions in pve are irrelevant|tags:pve
 dimwishlist:item=-4106983932
 
+// Timeline's Vertex
+//notes:fusions LMFAOFOFOFOFOFOFAOKDJASL:JFDSALKDEJF; funny
+dimwishlist:item=3055192515&perks=
+
 //  Grenade Launchers
 
 // Orewing's Maul
@@ -6923,11 +6927,11 @@ dimwishlist:item=-2545083870&perks=
 //  Machine Guns
 
 // Avalanche
-//notes: (???  ???): IT SUCKS LOL
+//notes:IT SUCKS LOL
 dimwishlist:item=-66875353&perks=
 
 // Temporal Clause
-//notes: (???  ???): really bad gun desperately needs buff i would not keep this regardless
+//notes:really bad gun desperately needs buff i would not keep this regardless
 dimwishlist:item=-3369545945&perks=
 
 
