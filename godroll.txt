@@ -1,6 +1,6 @@
-title: taran's curated list of opinionated god/good rolls to look out for
+title: Taran's curated list of opinionated god/good rolls to look out for.
 
-description: (disclaimer: very picky/pvp oriented. anti-Surrounded.)
+description: (Disclaimer: VERY picky/PvP oriented. Anti-Surrounded.)
 
 
 //  Auto Rifles
@@ -3433,11 +3433,11 @@ dimwishlist:item=654370424&perks=1482024992,3142289711,1168162263,1015611457
 
 // IKELOS_HC_V1.0.2
 //notes:Suffers from poor mag size and even worse overall feel. I wouldn't and most likely will not keep this one in my vault.
-dimwishlist:item=1200824700&perks=
+dimwishlist:item=-1200824700&perks=
 
 // Nature Of The Beast
 //notes:Deals with the same issues the IKELOS_HC suffers from. Just cannot recommend precision frames in general.
-dimwishlist:item=1835747805&perks=
+dimwishlist:item=-1835747805&perks=
 
 //  Pulse Rifles
 
@@ -6118,6 +6118,89 @@ dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3871884143,758
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3871884143,758092021
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,758092021
 
+// Seventh Seraph VY-7
+//notes: (PvE): Have not really tried this gun out, but I'd probably place it just under a good IKELOS SMG roll. A god roll of this weapon could probably suffice for most PvE content. Recommended MW: reload|tags:pve
+dimwishlist:item=766323545&perks=839105230,1087426260,1354429876,1546637391
+dimwishlist:item=766323545&perks=1482024992,1087426260,1354429876,1546637391
+dimwishlist:item=766323545&perks=1840239774,1087426260,1354429876,1546637391
+dimwishlist:item=766323545&perks=839105230,106909392,1354429876,1546637391
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,1546637391
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,1546637391
+dimwishlist:item=766323545&perks=839105230,3230963543,1354429876,1546637391
+dimwishlist:item=766323545&perks=1482024992,3230963543,1354429876,1546637391
+dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,1546637391
+dimwishlist:item=766323545&perks=839105230,1431678320,1354429876,1546637391
+dimwishlist:item=766323545&perks=1482024992,1431678320,1354429876,1546637391
+dimwishlist:item=766323545&perks=1840239774,1431678320,1354429876,1546637391
+dimwishlist:item=766323545&perks=839105230,1087426260,972757866,1546637391
+dimwishlist:item=766323545&perks=1482024992,1087426260,972757866,1546637391
+dimwishlist:item=766323545&perks=1840239774,1087426260,972757866,1546637391
+dimwishlist:item=766323545&perks=839105230,106909392,972757866,1546637391
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,1546637391
+dimwishlist:item=766323545&perks=1840239774,106909392,972757866,1546637391
+dimwishlist:item=766323545&perks=839105230,3230963543,972757866,1546637391
+dimwishlist:item=766323545&perks=1482024992,3230963543,972757866,1546637391
+dimwishlist:item=766323545&perks=1840239774,3230963543,972757866,1546637391
+dimwishlist:item=766323545&perks=839105230,1431678320,972757866,1546637391
+dimwishlist:item=766323545&perks=1482024992,1431678320,972757866,1546637391
+dimwishlist:item=766323545&perks=1840239774,1431678320,972757866,1546637391
+dimwishlist:item=766323545&perks=839105230,1087426260,1354429876,3511092054
+dimwishlist:item=766323545&perks=1482024992,1087426260,1354429876,3511092054
+dimwishlist:item=766323545&perks=1840239774,1087426260,1354429876,3511092054
+dimwishlist:item=766323545&perks=839105230,106909392,1354429876,3511092054
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,3511092054
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,3511092054
+dimwishlist:item=766323545&perks=839105230,3230963543,1354429876,3511092054
+dimwishlist:item=766323545&perks=1482024992,3230963543,1354429876,3511092054
+dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,3511092054
+dimwishlist:item=766323545&perks=839105230,1431678320,1354429876,3511092054
+dimwishlist:item=766323545&perks=1482024992,1431678320,1354429876,3511092054
+dimwishlist:item=766323545&perks=1840239774,1431678320,1354429876,3511092054
+dimwishlist:item=766323545&perks=839105230,1087426260,972757866,3511092054
+dimwishlist:item=766323545&perks=1482024992,1087426260,972757866,3511092054
+dimwishlist:item=766323545&perks=1840239774,1087426260,972757866,3511092054
+dimwishlist:item=766323545&perks=839105230,106909392,972757866,3511092054
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,3511092054
+dimwishlist:item=766323545&perks=1840239774,106909392,972757866,3511092054
+dimwishlist:item=766323545&perks=839105230,3230963543,972757866,3511092054
+dimwishlist:item=766323545&perks=1482024992,3230963543,972757866,3511092054
+dimwishlist:item=766323545&perks=1840239774,3230963543,972757866,3511092054
+dimwishlist:item=766323545&perks=839105230,1431678320,972757866,3511092054
+dimwishlist:item=766323545&perks=1482024992,1431678320,972757866,3511092054
+dimwishlist:item=766323545&perks=1840239774,1431678320,972757866,3511092054
+dimwishlist:item=766323545&perks=839105230,1087426260,1354429876,2848615171
+dimwishlist:item=766323545&perks=1482024992,1087426260,1354429876,2848615171
+dimwishlist:item=766323545&perks=1840239774,1087426260,1354429876,2848615171
+dimwishlist:item=766323545&perks=839105230,106909392,1354429876,2848615171
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2848615171
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2848615171
+dimwishlist:item=766323545&perks=839105230,3230963543,1354429876,2848615171
+dimwishlist:item=766323545&perks=1482024992,3230963543,1354429876,2848615171
+dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,2848615171
+dimwishlist:item=766323545&perks=839105230,1431678320,1354429876,2848615171
+dimwishlist:item=766323545&perks=1482024992,1431678320,1354429876,2848615171
+dimwishlist:item=766323545&perks=1840239774,1431678320,1354429876,2848615171
+dimwishlist:item=766323545&perks=839105230,1087426260,972757866,2848615171
+dimwishlist:item=766323545&perks=1482024992,1087426260,972757866,2848615171
+dimwishlist:item=766323545&perks=1840239774,1087426260,972757866,2848615171
+dimwishlist:item=766323545&perks=839105230,106909392,972757866,2848615171
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,2848615171
+dimwishlist:item=766323545&perks=1840239774,106909392,972757866,2848615171
+dimwishlist:item=766323545&perks=839105230,3230963543,972757866,2848615171
+dimwishlist:item=766323545&perks=1482024992,3230963543,972757866,2848615171
+dimwishlist:item=766323545&perks=1840239774,3230963543,972757866,2848615171
+dimwishlist:item=766323545&perks=839105230,1431678320,972757866,2848615171
+dimwishlist:item=766323545&perks=1482024992,1431678320,972757866,2848615171
+dimwishlist:item=766323545&perks=1840239774,1431678320,972757866,2848615171
+
+// Death Adder
+//notes:Recluse 2.0 they said. As it turns out it's decently mediocre and does not possess the same amount of usability as that gun. This one's free shards for me. 🤢
+dimwishlist:item=-2742490609&perks=
+
+// Escape Velocity
+//notes:This gun is weird. It has all the correct perks but I unfortunately either cannot use this gun or the gun is still not good enough. Will not be holding onto any of the ones I end up coming across. 🤢
+dimwishlist:item=-1786797708&perks=
+
 //  Bows
 
 // Accrued Redemption
@@ -6441,6 +6524,26 @@ dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391,26
 //notes:"lol"
 dimwishlist:item=1179141605
 
+// First In, Last Out
+//notes:Cannot contend with the likes of Chaperone, and also does not in particular have anything at all that worthwhile. Hipfire Grip can be interesting, but I just do not like this gun. 🤢
+dimwishlist:item=-3616586446&perks=
+
+// IKELOS_SG_v1.0.2
+//notes:Shotguns haven't been meta this season. Trench Barrel has also fell out of power to 1-2 Punch. Can't recommend. 🤢
+dimwishlist:item=-1096206669&perks=
+
+// Toil and Trouble
+//notes:Really poor gun stat-wise, though it won't be sunset. Cannot compete with Astral in terms of base stats. Shard. 🤢
+dimwishlist:item=-2957367743&perks=
+
+// Wishbringer
+//notes:🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢 don't know what the fuck this gun is supposed to even do
+dimwishlist:item=-3190698551&perks=
+
+// Prophet of Doom
+//notes: (???  ???): Precision Frame, and cannot even roll quickdraw. Unfortunate. 🤢
+dimwishlist:item=-4228109048&perks=
+
 //  Sniper Rifles
 
 // The Supremacy
@@ -6676,6 +6779,31 @@ dimwishlist:item=3454326177&perks=1840239774,3142289711,3513791699,957782887
 dimwishlist:item=3454326177&perks=3250034553,3142289711,3513791699,957782887
 dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887
 
+// Widow's Bite
+//notes:Nope. It's like a shitty Distant Tumulus. 🤢
+dimwishlist:item=-1271343896&perks=
+
+// Distant Tumulus
+//notes: (PvE): I think this'll be your best bet when it comes to a boss DPS sniper. Clown Cartridge + Firing Line is quite nice. Genesis is alright, but pales in comparison when you can reload with 8 bullets in the mag. Recommended MW: reload|tags:pve
+dimwishlist:item=2807687156&perks=3250034553,2420895100,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1482024992,2420895100,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1840239774,2420895100,2284787283,1771339417
+dimwishlist:item=2807687156&perks=3250034553,106909392,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1482024992,106909392,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2284787283,1771339417
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=2807687156&perks=3250034553,2420895100,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1482024992,2420895100,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1840239774,2420895100,3096702027,1771339417
+dimwishlist:item=2807687156&perks=3250034553,106909392,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1482024992,106909392,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1840239774,106909392,3096702027,1771339417
+dimwishlist:item=2807687156&perks=3250034553,1087426260,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1482024992,1087426260,3096702027,1771339417
+dimwishlist:item=2807687156&perks=1840239774,1087426260,3096702027,1771339417
+
 //  Fusion Rifles
 
 // Elatha FR4
@@ -6685,6 +6813,26 @@ dimwishlist:item=-4106983932
 // Timeline's Vertex
 //notes:fusions LMFAOFOFOFOFOFOFAOKDJASL:JFDSALKDEJF; funny
 dimwishlist:item=3055192515&perks=
+
+// Hollow Words
+//notes:Much like the Elatha, it does drop w/ QD. Though the same story with ALL fusion rifles, they are in a horrible spot whether it be PvE or PvP. 🤢
+dimwishlist:item=-607191995&perks=
+
+// Main Ingredient
+//notes:🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢🤢
+dimwishlist:item=-253196586&perks=
+
+// Exile's Curse
+//notes:A TRIALS weapon that can't even roll QUICKDRAW???? 🤢🤢🤢🤢
+dimwishlist:item=-679281855&perks=
+
+// Techeun Force
+//notes:Techeun Force your way out of my vault 🤢
+dimwishlist:item=-4094657108&perks=
+
+// Zealot's Reward
+//notes:heh. 🤢
+dimwishlist:item=-2209003210&perks=
 
 //  Grenade Launchers
 
@@ -6765,6 +6913,10 @@ dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,2284787283,380
 //notes:Honestly had it been able to roll with both Cluster AND Auto-Loading I probably would be looking for one. But it doesn't. And it has nothing outstanding about it. Personally do not recommend keeping this.
 dimwishlist:item=-2545083870&perks=
 
+// Mos Epoch III
+//notes: (PvE): Ok look, YEAH it looks like a blue rarity launcher, and YEAH this weapon you do not see people using, BUT I think it has some potential due to the fact it can roll the godly combo of Auto-Loading/Cluster/Impact Casing. So I'd just hold onto it if you manage to pull one. Recommended MW: velocity|tags:pve
+dimwishlist:item=1529450902&perks=981914802,3796465595,3300816228,1275731761
+
 //  Linear Fusion Rifles
 
 //  Machine Guns
@@ -6801,3 +6953,15 @@ dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3913600130
 //notes:"(PvP): With the potential to right click through spectral and other roaming supers, I guess this isn't terrible for pvp but it is rather niche. Use wisely."|tags:pvp
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,1685431615
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3016987351
+
+// Honor's Edge
+//notes:As long as Falling Guillotine exists, any other sword frame seriously lacks the utility or damage. Do not keep. 🤢
+dimwishlist:item=-2857348871&perks=
+
+// Negative Space
+//notes:As long as Falling Guillotine exists, any other sword frame seriously lacks the utility or damage. Do not keep. 🤢
+dimwishlist:item=-3629968765&perks=
+
+// Steel Sybil Z-14
+//notes:SEE: Falling Guillotine 🤢
+dimwishlist:item=-4230993599&perks=
