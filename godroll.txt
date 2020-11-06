@@ -1,16 +1,16 @@
 title: taran's curated list of opinionated god/good rolls to look out for
 
-description: (disclaimer: very picky/pvp oriented)
+description: (disclaimer: very picky/pvp oriented. anti-Surrounded.)
 
 
 //  Auto Rifles
 
 // Age-Old Bond
-//notes:do not like this gun, as well as severely lacking in the perk department. do not recommend keeping this when false promises exists.
+//notes:Do not like this gun, as well as severely lacking in the perk department. Do not recommend keeping this when false promises exists.
 dimwishlist:item=-601592879&perks=
 
 // False Promises
-//notes:"expect 600rpm autos to be nerfed, good futureproof potential but i think mostly pvp weapon. recommended MW: range/reload/handling"|tags:pvp
+//notes:"Expect 600rpm autos to be nerfed, good futureproof potential but I think mostly pvp weapon. Recommended MW: range/reload/handling"|tags:pvp
 dimwishlist:item=3385326721&perks=839105230,1885400500,2450788523,3425386926,684616255
 dimwishlist:item=3385326721&perks=1482024992,1885400500,2450788523,3425386926,684616255
 dimwishlist:item=3385326721&perks=1840239774,1885400500,2450788523,3425386926,684616255
@@ -157,7 +157,7 @@ dimwishlist:item=3385326721&perks=1482024992,1561002382,1359896290,3108830275,23
 dimwishlist:item=3385326721&perks=1840239774,1561002382,1359896290,3108830275,2357520979
 
 // The Summoner
-//notes:"great choice for pvp, but just be wary of 600rpm nerfs that could potentially gut this weapon. built-in enemy highlighting is also a great addition. recommended MW: range/reload"|tags:pvp
+//notes:"Great choice for pvp, but just be wary of 600rpm nerfs that could potentially gut this weapon. Built-in enemy highlighting is also a great addition. Recommended MW: range/reload"|tags:pvp
 dimwishlist:item=1907698332&perks=839105230,1561002382,2387244414,3425386926,684616255
 dimwishlist:item=1907698332&perks=839105230,1885400500,2387244414,3425386926,684616255
 dimwishlist:item=1907698332&perks=839105230,1561002382,1359896290,3425386926,684616255
@@ -193,7 +193,7 @@ dimwishlist:item=1907698332&perks=839105230,1885400500,588594999,2846385770,7580
 
 
 // Reckless Oracle
-//notes:"a strong alternative to the current 600rpm auto meta. possesses lowest bodyshot ttk of any auto rifle frame. recommended MW: range/handling"|tags:pvp
+//notes:"A strong alternative to the current 600rpm auto meta. Possesses lowest bodyshot ttk of any auto rifle frame. recommended MW: range/handling"|tags:pvp
 dimwishlist:item=3385326721&perks=839105230,1561002382,1890422124,1015611457,684616255
 dimwishlist:item=3385326721&perks=1482024992,1561002382,1890422124,1015611457,684616255
 dimwishlist:item=3385326721&perks=3661387068,1561002382,1890422124,1015611457,684616255
@@ -340,7 +340,7 @@ dimwishlist:item=3385326721&perks=1482024992,1885400500,3124871000,4082225868,23
 dimwishlist:item=3385326721&perks=3661387068,1885400500,3124871000,4082225868,2357520979
 
 // Gnawing Hunger
-//notes:"(PvE): the combination of subsistence + rampage or demolitionist makes this a solid choice for most content. unfortunately it will see nerfs in BL, but i think it won't affect it too much unless there are more nerfs coming. recommended MW: range/reload"|tags:pve
+//notes:"(PvE): The combination of Subsistence + Rampage or Demolitionist makes this a solid choice for most content. Unfortunately it will see nerfs in BL, but I think it won't affect it too much unless there are more nerfs coming. Recommended MW: range/reload"|tags:pve
 dimwishlist:item=821154603&perks=839105230,2420895100,1820235745,3425386926,178753455
 dimwishlist:item=821154603&perks=3661387068,2420895100,1820235745,3425386926,178753455
 dimwishlist:item=821154603&perks=1840239774,2420895100,1820235745,3425386926,178753455
@@ -488,7 +488,7 @@ dimwishlist:item=821154603&perks=1840239774,106909392,3300816228,3523296417,2697
 
 
 // Gnawing Hunger
-//notes:"(PvP): perhaps the most oppressive weapon of this season, picking up the god roll (TTT/KC) even a person with shit aim will shred right through most people. prefer TTT over zen moment because TTT doesn't require damage for the stability to kick in, making prefires more stable. recommended MW: range"|tags:pvp
+//notes:"(PvP): Perhaps the most oppressive weapon of this season, picking up the god roll (TTT/KC) even a person with shit aim will shred right through most people. Prefer TTT over Zen Moment because TTT doesn't require damage for the stability to kick in, making prefires more stable. Recommended MW: range"|tags:pvp
 dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,3425386926,684616255
 dimwishlist:item=821154603&perks=3661387068,3142289711,1890422124,3425386926,684616255
 dimwishlist:item=821154603&perks=1840239774,3142289711,1890422124,3425386926,684616255
@@ -827,7 +827,7 @@ dimwishlist:item=821154603&perks=3661387068,4134353779,2387244414,2458213969,235
 dimwishlist:item=821154603&perks=1840239774,4134353779,2387244414,2458213969,2357520979
 
 // The Forward Path
-//notes: (PvP): definitely a less tapped-into auto rifle, but presents a wide range of solid perks in the 2nd perk column. pulse monitor/eye of the storm is especially lethal in my opinion, since more often than not most duels will leave you critical hp, allowing for an instant mag reload AND a massive handling/accuracy buff. recommended MW: range|tags:pvp
+//notes: (PvP): Definitely a less tapped-into auto rifle, but presents a wide range of solid perks in the 2nd perk column. Pulse Monitor/Eye of the Storm is especially lethal in my opinion, since more often than not most duels will leave you critical hp allowing for an instant mag reload AND a massive handling/accuracy buff. Recommended MW: range|tags:pvp
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,11551321,684616255
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,11551321,684616255
 dimwishlist:item=1690783811&perks=679077873,3142289711,1359896290,11551321,684616255
@@ -878,7 +878,7 @@ dimwishlist:item=1690783811&perks=2405638014,3142289711,972757866,1890422124,269
 dimwishlist:item=1690783811&perks=679077873,3142289711,972757866,1890422124,2697220197
 
 // Uriel's Gift
-//notes: (PvE): while this gun is essentially shit-incarnate, it MIGHT have some use as it's one of the few if not only auto rifle left that can roll with triple tap/fttc AND disruption/shield disorient -- making it viable for higher difficulty pve content. slow ass reload means reload MW only.|tags:pve
+//notes: (PvE): While this gun is essentially shit-incarnate, it MIGHT have some use as it's one of the few if not only auto rifles left that can roll with Triple Tap/FTTC AND Disruption Break/Shield disorient -- making it viable for higher difficulty pve content. Slow ass reload means reload MW only.|tags:pve
 dimwishlist:item=3863882743&perks=194952923,1885400500,3400784728,3275789089,178753455
 dimwishlist:item=3863882743&perks=1628165637,1885400500,3400784728,3275789089,178753455
 dimwishlist:item=3863882743&perks=194952923,1561002382,3400784728,3275789089,178753455
@@ -929,19 +929,19 @@ dimwishlist:item=3863882743&perks=194952923,1561002382,280464955,3871884143,7580
 dimwishlist:item=3863882743&perks=1628165637,1561002382,280464955,3871884143,758092021
 
 // Uriel's Gift
-//notes:just a bad archetype and also does not have anything appealing outside of a couple rolls. do not use.🤢
+//notes:Just a bad archetype and also does not have anything appealing outside of a couple rolls. Do not use.🤢
 dimwishlist:item=-3863882743&perks=
 
 // Horror Story
-//notes: (PvP): bad archetype, but has a very few specific rolls that i can't bother detailing unless precision frames see more buffs. the roll from collections will suffice. 🤢|tags:pvp
+//notes: (PvP): Bad archetype, but has a very few specific rolls that I can't bother detailing unless precision frames see more buffs. The roll from collections will suffice. 🤢|tags:pvp
 dimwishlist:item=-3829285960&perks=
 
 // Horror Story
-//notes: (PvE): bad archetype and offers nothing worthwhile in higher-difficulty content.🤢|tags:pve
+//notes: (PvE): Bad archetype and offers nothing worthwhile in higher-difficulty content.🤢|tags:pve
 dimwishlist:item=-3829285960&perks=
 
 // Braytech Werewolf
-//notes: (PvE): while it suffers from a bad frame, the huge ass perk pool can have some good combinations and it's worth looking at. fttc + vorpal is the one to look for if you plan to futureproof your arsenal. recommended MW: range/reload|tags:pve
+//notes: (PvE): While it suffers from a bad frame, the huge ass perk pool can have some good combinations and it's worth looking at. FTTC + Vorpal is the one to look for if you plan to futureproof your arsenal. Recommended MW: range/reload|tags:pve
 dimwishlist:item=528834068&perks=839105230,1885400500,1354429876,1546637391,684616255
 dimwishlist:item=528834068&perks=1482024992,1885400500,1354429876,1546637391,684616255
 dimwishlist:item=528834068&perks=3250034553,1885400500,1354429876,1546637391,684616255
@@ -1072,7 +1072,7 @@ dimwishlist:item=528834068&perks=3250034553,679225683,1354429876,2458213969,7580
 dimwishlist:item=528834068&perks=1840239774,679225683,1354429876,2458213969,758092021
 
 // Braytech Werewolf
-//notes: (PvP): unlike horror story, the werewolf seems to be the better of the halloween weapons. if you have these combos, they're worth holding onto in the event precision frames get some love. recommended MW: range|tags:pvp
+//notes: (PvP): Unlike Horror Story, the Werewolf seems to be the better of the halloween weapons. If you have these combos, they're worth holding onto in the event precision frames get some love. Recommended MW: range|tags:pvp
 dimwishlist:item=528834068&perks=839105230,1885400500,1359896290,2458213969,684616255
 dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,2458213969,684616255
 dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,2458213969,684616255
@@ -1294,7 +1294,7 @@ dimwishlist:item=528834068&perks=1840239774,679225683,3161816588,3108830275,2697
 //  Hand Cannons
 
 // Crimil's Dagger
-//notes:"have not really used this gun at all, but it may become a strong weapon after the rpm/range buff to aggressive frames, so it's worth looking out for. recommended MW: reload/range/handling"|tags:pvp
+//notes:"Have not really used this gun at all, but it may become a strong weapon after the rpm/range buff to aggressive frames, so it's worth looking out for. Recommended MW: reload/range/handling"|tags:pvp
 dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,47981717
 dimwishlist:item=4292849692&perks=1926090095,3142289711,588594999,47981717
 dimwishlist:item=4292849692&perks=1926090095,3142289711,588594999,3038247973
@@ -1302,7 +1302,7 @@ dimwishlist:item=4292849692&perks=1926090095,3142289711,1168162263,1015611457
 dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,3038247973
 
 // True Prophecy
-//notes: (PvE): does the job, and due to the ability to roll explodey bullets, can prove useful in pve/nightfall. suffers greatly from bad handling and horrendous reload speed without reloaders. worth having due to the incoming frame buffs. recommended MW: reload/handling|tags:pve
+//notes: (PvE): Does the job, and due to the ability to roll explodey bullets, can prove useful in pve/nightfall. Suffers greatly from bad handling and horrendous reload speed without reloaders. Worth having due to the incoming frame buffs. Recommended MW: reload/handling|tags:pve
 dimwishlist:item=2742838700&perks=1926090092,4134353779,1954620775,1954620775,178753455
 dimwishlist:item=2742838700&perks=1926090095,4134353779,1954620775,1954620775,178753455
 dimwishlist:item=2742838700&perks=1926090093,4134353779,1954620775,1954620775,178753455
@@ -1690,7 +1690,7 @@ dimwishlist:item=2742838700&perks=1926090094,106909392,2846385770,3523296417,235
 
 
 // True Prophecy
-//notes: (PvP): definitely shaping up to be a strong pick next season. explodey bullets have always been a top tier pick on any handcannon and this one is no exception. recommended MW: range/reload|tags:pvp
+//notes: (PvP): Definitely shaping up to be a strong pick next season. Explodey bullets have always been a top tier pick on any handcannon and this one is no exception. Recommended MW: range/reload|tags:pvp
 dimwishlist:item=2742838700&perks=1926090095,4134353779,1954620775,1954620775,684616255
 dimwishlist:item=2742838700&perks=1926090094,4134353779,1954620775,1954620775,684616255
 dimwishlist:item=2742838700&perks=1926090095,3230963543,1954620775,1954620775,684616255
@@ -1981,11 +1981,11 @@ dimwishlist:item=2742838700&perks=1926090095,3142289711,47981717,3511092054,7580
 dimwishlist:item=2742838700&perks=1926090094,3142289711,47981717,3511092054,758092021
 
 // True Prophecy
-//notes:"this roll specifically benefits from exactly 68 stability, which reduces the amount of visual recoil made by the gun. this applies to ALL handcannons of any type. recommended MW: range/reload/handling"|tags:pvp
+//notes:"This roll specifically benefits from exactly 68 stability, which reduces the amount of visual recoil made by the gun. This applies to ALL handcannons of any type. Recommended MW: range/reload/handling"|tags:pvp
 dimwishlist:item=2742838700&perks=1926090095,3142289711,47981717,3511092054
 
 // Dire Promise
-//notes: (PvP): currently the replacement spare rations, but will be losing its lightweight frame perks. still a very solid perk selection in comparison to its current competition. just have to wait and see if anything will take its spot at the top. recommended MW: range|tags:pvp
+//notes: (PvP): Currently the replacement spare rations, but will be losing its lightweight frame perks. Still a very solid perk selection in comparison to its current competition. Just have to wait and see if anything will take its spot at the top. Recommended MW: range|tags:pvp
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868,684616255
 dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,4082225868,684616255
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,4082225868,684616255
@@ -2036,11 +2036,11 @@ dimwishlist:item=2742838701&perks=1926090095,3230963543,47981717,3511092054,2697
 dimwishlist:item=2742838701&perks=1926090094,3230963543,47981717,3511092054,2697220197
 
 // Dire Promise
-//notes:"probably THE god roll on this gun. holy trinity of opening shot/rangefinder/range mw AND perfect 68 stability for reduced visual recoil. waow"
+//notes:"Probably THE god roll on this gun. Holy trinity of Opening Shot/Rangefinder/Range MW AND perfect 68 stability for reduced visual recoil. waow"
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770,2697220197
 
 // Dire Promise
-//notes: (PvE): honestly, this gun is beyond flexible in this season, and can still be used for sure. you can't really go too wrong with this gun, as long as you aren't subtracting stats from it. recommended MW: range/reload/handling|tags:pve
+//notes: (PvE): Honestly, this gun is beyond flexible in this season, and can still be used for sure. You can't really go too wrong with this gun, as long as you aren't subtracting stats from it. Recommended MW: range/reload/handling|tags:pve
 dimwishlist:item=2742838701&perks=1926090095,1561002382,3300816228,4082225868,684616255
 dimwishlist:item=2742838701&perks=1926090094,1561002382,3300816228,4082225868,684616255
 dimwishlist:item=2742838701&perks=1926090093,1561002382,3300816228,4082225868,684616255
@@ -2811,7 +2811,7 @@ dimwishlist:item=2742838701&perks=1926090093,3230963543,3643424744,3511092054,23
 dimwishlist:item=2742838701&perks=1926090092,3230963543,3643424744,3511092054,2357520979
 
 // The Old Fashioned
-//notes: (PvP): solid handcannon and has a decent set of perks. quickdraw + explosive is a combo that i would look to securing if you don't have one already. recommended MW: range|tags:pvp
+//notes: (PvP): Solid handcannon and has a decent set of perks. Quickdraw + Explosive is a combo that I would look to securing if you don't have one already. Recommended MW: range|tags:pvp
 dimwishlist:item=3569802112&perks=1926090095,3142289711,3161816588,1015611457,684616255
 dimwishlist:item=3569802112&perks=1926090094,3142289711,3161816588,1015611457,684616255
 dimwishlist:item=3569802112&perks=1926090095,4134353779,3161816588,1015611457,684616255
@@ -2958,11 +2958,11 @@ dimwishlist:item=3569802112&perks=1926090095,3230963543,972757866,3038247973,269
 dimwishlist:item=3569802112&perks=1926090094,3230963543,972757866,3038247973,2697220197
 
 // The Old Fashioned
-//notes:"the 68 stab roll. recommended mw: range/reload"|tags:pvp
+//notes:"The 68 stab roll. Recommended mw: range/reload"|tags:pvp
 dimwishlist:item=3569802112&perks=1926090095,3230963543,706527188,3038247973
 
 // Ancient Gospel
-//notes: (PvP): another super solid 140, which has 0 bad perks in the 3rd column. consider trying for the heavily sought-after rapid hit + kill clip roll -- you can shard the rest after that. unfortunately not a fan of the sights or the way it sounds. recommended MW: handling/range|tags:pvp
+//notes: (PvP): Another super solid 140, which has 0 bad perks in the 3rd column. Consider trying for the heavily sought-after Rapid Hit + Kill Clip roll -- you can shard the rest after that. Unfortunately not a fan of the sights or the way it sounds. Recommended MW: handling/range|tags:pvp
 dimwishlist:item=48643186&perks=1482024992,3142289711,247725512,2846385770,684616255
 dimwishlist:item=48643186&perks=1840239774,3142289711,247725512,2846385770,684616255
 dimwishlist:item=48643186&perks=1482024992,4134353779,247725512,2846385770,684616255
@@ -3205,11 +3205,11 @@ dimwishlist:item=48643186&perks=1482024992,4134353779,3124871000,4082225868,2357
 dimwishlist:item=48643186&perks=1840239774,4134353779,3124871000,4082225868,2357520979
 
 // Ancient Gospel
-//notes:"the definitive god roll of this gun"|tags:pvp
+//notes:"The definitive god roll of this gun"|tags:pvp
 dimwishlist:item=48643186&perks=1482024992,3142289711,1168162263,1015611457
 
 // Nation Of Beasts
-//notes: (PvP): perhaps the 140 i will be trying to get my hands on for/throughout the next year. not much to be said from my end considering i STILL haven't gotten a single one. recommended MW: range/handling|tags:pvp
+//notes: (PvP): Perhaps the 140 I will be trying to get my hands on for/throughout the next year. Not much to be said from my end considering I STILL haven't gotten a single one. Recommended MW: range/handling|tags:pvp
 dimwishlist:item=654370424&perks=1482024992,3142289711,1168162263,3038247973,684616255
 dimwishlist:item=654370424&perks=1840239774,3142289711,1168162263,3038247973,684616255
 dimwishlist:item=654370424&perks=1482024992,4134353779,1168162263,3038247973,684616255
@@ -3428,21 +3428,21 @@ dimwishlist:item=654370424&perks=1482024992,679225683,3124871000,1015611457,2357
 dimwishlist:item=654370424&perks=1840239774,679225683,3124871000,1015611457,2357520979
 
 // Nation Of Beasts
-//notes:"another perfect 68 stability roll that i will personally be on the hunt for all throughout the year"|tags:pvp
+//notes:"Another perfect 68 stability roll that I will personally be on the hunt for all throughout the year"|tags:pvp
 dimwishlist:item=654370424&perks=1482024992,3142289711,1168162263,1015611457
 
 // IKELOS_HC_V1.0.2
-//notes:suffers from poor mag size and even worse overall feel. i wouldn't and most likely will not keep this one in my vault.
+//notes:Suffers from poor mag size and even worse overall feel. I wouldn't and most likely will not keep this one in my vault.
 dimwishlist:item=1200824700&perks=
 
 // Nature Of The Beast
-//notes:deals with the same issues the ikelos hc suffers from. just cannot recommend precision frames in general.
+//notes:Deals with the same issues the IKELOS_HC suffers from. Just cannot recommend precision frames in general.
 dimwishlist:item=1835747805&perks=
 
 //  Pulse Rifles
 
 // Chattering Bone
-//notes:"super good pulse kill ppl quick, full auto is always a solid choice on pulses, just moreso a personal preference. recommended MW: range/handling"|tags:pvp,pve
+//notes:"Super good pulse kill ppl quick, full auto is always a solid choice on pulses, just moreso a personal preference. Recommended MW: range/handling"|tags:pvp,pve
 dimwishlist:item=568515759&perks=839105230,1885400500,1015611457,3425386926,684616255
 dimwishlist:item=568515759&perks=1482024992,1885400500,1015611457,3425386926,684616255
 dimwishlist:item=568515759&perks=1840239774,1885400500,1015611457,3425386926,684616255
@@ -3590,7 +3590,7 @@ dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,460017080,2357
 
 
 // Cold Denial
-//notes:"(PvP): solid pulse overall, worth having for pvp considering its strong perk pool. a lot of ppl overlook pulse monitor, but combined with unrelenting/devourlock it proves to be a lethal combo. recommended MW: anything but reload"|tags:pvp
+//notes:"(PvP): Solid pulse overall, worth having for pvp considering its strong perk pool. A lot of ppl overlook Pulse Monitor, but combined with Unrelenting/devourlock it proves to be a lethal combo. Recommended MW: anything but reload"|tags:pvp
 dimwishlist:item=1216130969&perks=839105230,1885400500,972757866,460017080,684616255
 dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,460017080,684616255
 dimwishlist:item=1216130969&perks=1840239774,1885400500,972757866,460017080,684616255
@@ -4025,7 +4025,7 @@ dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969,235
 dimwishlist:item=1216130969&perks=1840239774,679225683,2450788523,2458213969,2357520979
 
 // Cold Denial
-//notes:"(PvE) FF/MKC has always been a great combo in pve and this should be a reliable weapon for future nightfalls. recommended MW: range/reload/handling"|tags:pve
+//notes:"(PvE) FF/MKC has always been a great combo in pve and this should be a reliable weapon for future nightfalls. Recommended MW: range/reload/handling"|tags:pve
 dimwishlist:item=1216130969&perks=839105230,1885400500,972757866,2458213969,684616255
 dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,2458213969,684616255
 dimwishlist:item=1216130969&perks=1840239774,1885400500,972757866,2458213969,684616255
@@ -4136,7 +4136,7 @@ dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969,758
 dimwishlist:item=1216130969&perks=1840239774,679225683,2450788523,2458213969,758092021
 
 // Sacred Provenance
-//notes:"perhaps the best pulse out currently for pvp, for pve you just want the tried and true rapid hit/outlaw - kill clip or full auto just for ease of use. recommended MW: range/handling"|tags:pvp,pve
+//notes:"Perhaps the best pulse out currently for PvP, for PvE you just want the tried and true Rapid Hit/Outlaw - Kill Clip or full auto just for ease of use. Recommended MW: range/handling"|tags:pvp,pve
 dimwishlist:item=2408405461&perks=839105230,1885400500,2117683199,1015611457,684616255
 dimwishlist:item=2408405461&perks=1482024992,1885400500,2117683199,1015611457,684616255
 dimwishlist:item=2408405461&perks=1840239774,1885400500,2117683199,1015611457,684616255
@@ -4619,17 +4619,17 @@ dimwishlist:item=2408405461&perks=1482024992,3142289711,3124871000,460017080,235
 dimwishlist:item=2408405461&perks=1840239774,3142289711,3124871000,460017080,2357520979
 
 // Jian-7 Rifle
-//notes:do not understand the hype behind adaptive pulses. personally not a fan of this gun.
+//notes:Do not understand the hype behind adaptive pulses. Personally not a fan of this gun.
 dimwishlist:item=625672050&perks=
 
 // Last Perdition
-//notes:do not like this gun either, it's simply just bad and unappealing when cold denial and other pulses exist.
+//notes:Do not like this gun either, it's simply just bad and unappealing when cold denial and other pulses exist.
 dimwishlist:item=-188882152&perks=
 
 //  Scout Rifles
 
 // The Scholar
-//notes:"i could see some use out of it as like a legendary jade rabbit. snapshot could be a viable choice for more rapid target acquisition. recommended MW: range/handling"|tags:pvp
+//notes:"I could see some use out of it as like a legendary jade rabbit. Snapshot could be a viable choice for more rapid target acquisition. Recommended MW: range/handling"|tags:pvp
 dimwishlist:item=2478792241&perks=3250034553,1885400500,2117683199,2866798147,684616255
 dimwishlist:item=2478792241&perks=1482024992,1885400500,2117683199,2866798147,684616255
 dimwishlist:item=2478792241&perks=3250034553,1561002382,2117683199,2866798147,684616255
@@ -4825,7 +4825,7 @@ dimwishlist:item=2478792241&perks=1482024992,1561002382,4267945040,957782887,235
 
 
 // Transfiguration
-//notes:"basically there's only one real god roll here which is rampage/kill clip for the crispy 2 tap across the whole map. otherwise  recommended MW: range"|tags:pvp
+//notes:"Basically there's only one real god roll here which is Rampage/Kill Clip for the crispy 2 tap across the whole map. Otherwise, any of these rolls are fine. Recommended MW: range"|tags:pvp
 dimwishlist:item=3799980700&perks=3250034553,1885400500,3425386926,1015611457,684616255
 dimwishlist:item=3799980700&perks=1482024992,1885400500,3425386926,1015611457,684616255
 dimwishlist:item=3799980700&perks=3250034553,1561002382,3425386926,1015611457,684616255
@@ -4924,7 +4924,7 @@ dimwishlist:item=3799980700&perks=3250034553,1561002382,3124871000,588594999,269
 dimwishlist:item=3799980700&perks=1482024992,1561002382,3124871000,588594999,2697220197
 
 // Night Watch
-//notes: (PvE): essentially the only futureproof kinetic scout rifle going into next season. rapid hit + mkc is the way to go on this, but there are a few other decent enough rolls. recommended MW: range/handling|tags:pve
+//notes: (PvE): Essentially the only futureproof kinetic scout rifle going into next season. Rapid Hit + MKC is the way to go on this, but there are a few other decent enough rolls. Recommended MW: range/handling|tags:pve
 dimwishlist:item=3504336176&perks=3250034553,2420895100,247725512,2458213969,684616255
 dimwishlist:item=3504336176&perks=1482024992,2420895100,247725512,2458213969,684616255
 dimwishlist:item=3504336176&perks=3250034553,106909392,247725512,2458213969,684616255
@@ -5143,7 +5143,7 @@ dimwishlist:item=3504336176&perks=3250034553,1087426260,3124871000,3425386926,23
 dimwishlist:item=3504336176&perks=1482024992,1087426260,3124871000,3425386926,2357520979
 
 // Night Watch
-//notes: (PvP): essentially the only futureproof kinetic scout rifle going into next season. rapid hit + damage perk is pretty much the standard god roll, but there are a couple exceptions. moving target should help make you a more mobile target. recommended MW: range|tags:pvp
+//notes: (PvP): Essentially the only futureproof kinetic scout rifle going into next season. Rapid Hit + any damage perk is pretty much the standard god roll, but there are a couple exceptions. Moving Target should help make you a more mobile target. Recommended MW: range|tags:pvp
 dimwishlist:item=3504336176&perks=3250034553,2420895100,247725512,2458213969,684616255
 dimwishlist:item=3504336176&perks=1482024992,2420895100,247725512,2458213969,684616255
 dimwishlist:item=3504336176&perks=1840239774,2420895100,247725512,2458213969,684616255
@@ -5365,7 +5365,7 @@ dimwishlist:item=3504336176&perks=1840239774,1087426260,3124871000,588594999,269
 
 
 // The Fool's Remedy
-//notes:"i used this pistol a couple a times in rumble and thought it was pretty good, and it benefits from a solid perk pool. i'm looking for moving target/qd so i can speed around the map. recommended MW: range/reload"|tags:pvp
+//notes:"I used this pistol a couple a times in rumble and thought it was pretty good, and it benefits from a solid perk pool. I'm looking for Moving Target/QD so I can just fly around the map like an angry mosquito. Recommended MW: range/reload"|tags:pvp
 dimwishlist:item=65611680&perks=445755710,1885400500,588594999,11551321,684616255
 dimwishlist:item=65611680&perks=445755704,1885400500,588594999,11551321,684616255
 dimwishlist:item=65611680&perks=445755705,1885400500,588594999,11551321,684616255
@@ -5608,21 +5608,21 @@ dimwishlist:item=65611680&perks=445755704,1561002382,972757866,2846385770,758092
 dimwishlist:item=65611680&perks=445755705,1561002382,972757866,2846385770,758092021
 
 // Last Hope
-//notes:"(PvP): well, it's actually half useable as a replacement for an smg considering most suck and recluse is going away. i've seen it 2 burst people so it must have some degree of viability. recommended MW: range"|tags:pvp
+//notes:"(PvP): Well, it's actually half useable as a replacement for an SMG considering most suck and Recluse is going away. I've seen it 2 burst people so it must have some degree of viability. Recommended MW: range"|tags:pvp
 dimwishlist:item=3622137132&perks=445755704,1885400500,706527188,3425386926
 dimwishlist:item=3622137132&perks=445755705,1885400500,706527188,3425386926
 dimwishlist:item=3622137132&perks=445755704,1561002382,706527188,3425386926
 dimwishlist:item=3622137132&perks=445755705,1561002382,706527188,3425386926
 
 // Last Hope
-//notes:"(PvE): honestly do not know what niche this can fill but i assume it can fill the niche of smgs. the only roll you'll want is this one; feeding frenzy - mkc/rampage. recommended MW: reload"|tags:pve
+//notes:"(PvE): Honestly do not know what niche this can fill but I  assume it can fill the niche of SMGs. The only roll you'll want is this one; Feeding Frenzy - MKC/Rampage. Recommended MW: reload"|tags:pve
 dimwishlist:item=3622137132&perks=445755704,1885400500,2779035018,2458213969
 dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,2458213969
 dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969
 dimwishlist:item=3622137132&perks=445755705,1561002382,2779035018,2458213969
 
 // Breachlight
-//notes:"(PvP): i have actually found some successful use out of this weapon in pvp. not exactly meta-breaking but it is viable. recommended MW: reload/range/stability"|tags:pvp
+//notes:"(PvP): I have actually found some successful use out of this weapon in PvP. Not exactly meta-breaking, but it is viable. Recommended MW: reload/range/stability"|tags:pvp
 dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,1546637391
 dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,3425386926
 dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,3425386926
@@ -5632,7 +5632,7 @@ dimwishlist:item=1289997971&perks=839105230,3142289711,1168162263,1546637391
 dimwishlist:item=1289997971&perks=839105230,3142289711,1168162263,3425386926
 
 // Breachlight
-//notes: (PvE): semi-useful weapon, just suffers from having to constantly click which ends up tiring my poor fingie. recommended MW: range/reload|tags:pve
+//notes: (PvE): Semi-useful weapon, just suffers from having to constantly click which ends up tiring my poor fingie. Recommended MW: range/reload|tags:pve
 dimwishlist:item=1289997971&perks=1840239774,4134353779,3523296417,3425386926#notes:|tags:pve
 dimwishlist:item=1289997971&perks=1482024992,4134353779,3523296417,3425386926#notes:|tags:pve
 dimwishlist:item=1289997971&perks=4090651448,4134353779,3523296417,3425386926#notes:|tags:pve
@@ -5955,21 +5955,21 @@ dimwishlist:item=1289997971&perks=4090651448,1087426260,3124871000,1774574192#no
 dimwishlist:item=1289997971&perks=839105230,1087426260,3124871000,1774574192#notes:|tags:pve
 
 // The Last Dance
-//notes:while having a higher seasonal cap than the likes of Last Hope, Last Dance is ultimately inferior in almost every way possible. i cannot recommend keeping this gun at all.
+//notes:While having a higher seasonal cap than the likes of Last Hope, Last Dance is ultimately inferior in almost every way possible. I cannot recommend keeping this gun at all.
 dimwishlist:item=-2009277538&perks=
 
 // Lonesome
-//notes:why you would subject yourself to clicking 10 billion times with a god roll and no full auto? no clue cause i won't
+//notes:Why you would subject yourself to clicking 10 billion times with a god roll and no full auto? no clue cause I won't.
 dimwishlist:item=-2199171672&perks=
 
 // Enigma's Draw
-//notes:do not under any circumstance bother using or keeping this weapon without full auto. unless you enjoy clicking for 20 seconds straight in order to kill a fucking exploding thrall
+//notes:Do not under any circumstance bother using or keeping this weapon without full auto — unless you enjoy clicking for 20 seconds straight in order to kill a fucking exploding thrall.
 dimwishlist:item=-1723380073&perks=
 
 //  Submachine Guns
 
 // IKELOS_SMG_V1.0.2
-//notes:"(PvP): a solid choice and with the godly roll of seraph rounds, DSR and TTT, i find it to be great in most situations. recommended MW: range/reload"|tags:pvp
+//notes:"(PvP): A solid choice and with the godly roll of seraph rounds, DSR and TTT, i find it to be great in most situations. Recommended MW: range/reload"|tags:pvp
 dimwishlist:item=2222560548&perks=839105230,1140096971,1359896290,1890422124,684616255
 dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1890422124,684616255
 dimwishlist:item=2222560548&perks=3661387068,1140096971,1359896290,1890422124,684616255
@@ -6068,7 +6068,7 @@ dimwishlist:item=2222560548&perks=1482024992,1140096971,972757866,3871884143,758
 dimwishlist:item=2222560548&perks=3661387068,1140096971,972757866,3871884143,758092021
 
 // IKELOS_SMG_V1.0.2
-//notes:"(PvE): personally one of my favorite weapons for PvE — any of the 2nd perks will serve you well, but as far as barrel recommendations go, if you snag arrowhead or smallbore with the other perks, you can stop grinding for another roll. recommended MW: reload/range"|tags:pve
+//notes:"(PvE): personally one of my favorite weapons for PvE — any of the 2nd perks will serve you well, but as far as barrel recommendations go, if you snag arrowhead or smallbore with the other perks, you can stop grinding for another roll.  recommended MW: reload/range"|tags:pve
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,1683379515,684616255
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,1683379515,684616255
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1683379515,684616255
@@ -6078,9 +6078,6 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1546637391,68
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3523296417,684616255
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417,684616255
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417,684616255
-dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3708227201,684616255
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201,684616255
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3708227201,684616255
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3871884143,684616255
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3871884143,684616255
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,684616255
@@ -6093,9 +6090,6 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1546637391,17
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3523296417,178753455
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417,178753455
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417,178753455
-dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3708227201,178753455
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201,178753455
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3708227201,178753455
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3871884143,178753455
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3871884143,178753455
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,178753455
@@ -6108,9 +6102,6 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1546637391,26
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3523296417,2697220197
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417,2697220197
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417,2697220197
-dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3708227201,2697220197
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201,2697220197
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3708227201,2697220197
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3871884143,2697220197
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3871884143,2697220197
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,2697220197
@@ -6123,9 +6114,6 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,1546637391,75
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3523296417,758092021
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417,758092021
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417,758092021
-dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3708227201,758092021
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201,758092021
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3708227201,758092021
 dimwishlist:item=2222560548&perks=839105230,1140096971,4071163871,3871884143,758092021
 dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3871884143,758092021
 dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,758092021
@@ -6133,38 +6121,121 @@ dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3871884143,75
 //  Bows
 
 // Accrued Redemption
-//notes:"don't really play around with bows too often but this one is good to have for futureproofing. recommended MW: draw time"|tags:pve
-dimwishlist:item=4095896073&perks=1784898267,3827198035,201365942,3365897133
-dimwishlist:item=4095896073&perks=1784898267,3827198035,706527188,3365897133
+//notes: (PvE): Don't really play around with bows too often but this one is good to have for futureproofing. Recommended MW: draw time|tags:pve
+dimwishlist:item=4095896073&perks=1784898267,16392701,201365942,3425386926
+dimwishlist:item=4095896073&perks=852209214,16392701,201365942,3425386926
 dimwishlist:item=4095896073&perks=1784898267,3827198035,201365942,3425386926
+dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3425386926
+dimwishlist:item=4095896073&perks=1784898267,16392701,706527188,3425386926
+dimwishlist:item=4095896073&perks=852209214,16392701,706527188,3425386926
 dimwishlist:item=4095896073&perks=1784898267,3827198035,706527188,3425386926
+dimwishlist:item=4095896073&perks=852209214,3827198035,706527188,3425386926
+dimwishlist:item=4095896073&perks=1784898267,16392701,201365942,3365897133
+dimwishlist:item=4095896073&perks=852209214,16392701,201365942,3365897133
+dimwishlist:item=4095896073&perks=1784898267,3827198035,201365942,3365897133
+dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3365897133
+dimwishlist:item=4095896073&perks=1784898267,16392701,706527188,3365897133
+dimwishlist:item=4095896073&perks=852209214,16392701,706527188,3365897133
+dimwishlist:item=4095896073&perks=1784898267,3827198035,706527188,3365897133
+dimwishlist:item=4095896073&perks=852209214,3827198035,706527188,3365897133
 
 // Whispering Slab
-//notes:"a much more utility focused perk pool, i feel like this can be used pretty effectively in engame pve content. recommended MW: draw time"|tags:pve
-dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3350417888
-dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3523296417
-dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,1546637391
-dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3350417888
-dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3523296417
-dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,1546637391
+//notes: (PvE): With a much more utility focused perk pool, I feel like this can be used pretty effectively in engame pve content. Recommended MW: draw time|tags:pve
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,47981717
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,47981717
 dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,47981717
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,47981717
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,47981717
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,47981717
 dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,47981717
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,47981717
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,1546637391
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,1546637391
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,1546637391
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,1546637391
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,1546637391
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,1546637391
+dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,1546637391
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,1546637391
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,3350417888
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3350417888
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3350417888
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3350417888
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,3350417888
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,3350417888
+dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3350417888
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,3350417888
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,3523296417
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3523296417
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3523296417
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3523296417
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,3523296417
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,3523296417
+dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3523296417
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,3523296417
+dimwishlist:item=211938782&perks=1784898267,16392701,201365942,3108830275
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3108830275
+dimwishlist:item=211938782&perks=1784898267,3827198035,201365942,3108830275
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3108830275
+dimwishlist:item=211938782&perks=1784898267,16392701,706527188,3108830275
+dimwishlist:item=211938782&perks=852209214,16392701,706527188,3108830275
+dimwishlist:item=211938782&perks=1784898267,3827198035,706527188,3108830275
+dimwishlist:item=211938782&perks=852209214,3827198035,706527188,3108830275
 
-// Tyranny Of Heaven
-//notes:"have never come across this bow either, but i think can be an OK replacement for hush, mostly for the solar shields. recommended MW: draw time"|tags:pve
-dimwishlist:item=2721249463&perks=1784898267,3827198035,201365942,3425386926,1639384016
-dimwishlist:item=2721249463&perks=1784898267,3827198035,201365942,3365897133,1639384016
+// Tyranny of Heaven
+//notes: (PvE): Have never come across this bow either, but I think can be an OK replacement for Hush, mostly due to it being solar. Recommended MW: draw time|tags:pve
+dimwishlist:item=2721249463&perks=1784898267,16392701,201365942,3425386926
+dimwishlist:item=2721249463&perks=852209214,16392701,201365942,3425386926
+dimwishlist:item=2721249463&perks=1784898267,3827198035,201365942,3425386926
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3425386926
+dimwishlist:item=2721249463&perks=1784898267,16392701,201365942,3365897133
+dimwishlist:item=2721249463&perks=852209214,16392701,201365942,3365897133
+dimwishlist:item=2721249463&perks=1784898267,3827198035,201365942,3365897133
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3365897133
 
 // Arsenic Bite-4b
-//notes:"your only choice for an arc bow as it currently stands. luckily, it has a lot of good perks to choose from. recommended MW: draw time"|tags:pve
-dimwishlist:item=720351795&perks=1784898267,3827198035,201365942,3365897133,1639384016
-dimwishlist:item=720351795&perks=1784898267,3827198035,706527188,3365897133,1639384016
-dimwishlist:item=720351795&perks=1784898267,3827198035,201365942,3425386926,1639384016
+//notes: (PvE): Your only choice for an arc bow as it currently stands. Luckily, it has a lot of good perks to choose from. Recommended MW: draw time|tags:pve
+dimwishlist:item=720351795&perks=1784898267,16392701,201365942,3425386926
+dimwishlist:item=720351795&perks=852209214,16392701,201365942,3425386926
+dimwishlist:item=720351795&perks=1784898267,3827198035,201365942,3425386926
+dimwishlist:item=720351795&perks=852209214,3827198035,201365942,3425386926
+dimwishlist:item=720351795&perks=1784898267,16392701,3425386926,3425386926
+dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3425386926
+dimwishlist:item=720351795&perks=1784898267,3827198035,3425386926,3425386926
+dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,3425386926
+dimwishlist:item=720351795&perks=1784898267,16392701,706527188,3425386926
+dimwishlist:item=720351795&perks=852209214,16392701,706527188,3425386926
+dimwishlist:item=720351795&perks=1784898267,3827198035,706527188,3425386926
+dimwishlist:item=720351795&perks=852209214,3827198035,706527188,3425386926
+dimwishlist:item=720351795&perks=1784898267,16392701,201365942,3365897133
+dimwishlist:item=720351795&perks=852209214,16392701,201365942,3365897133
+dimwishlist:item=720351795&perks=1784898267,3827198035,201365942,3365897133
+dimwishlist:item=720351795&perks=852209214,3827198035,201365942,3365897133
+dimwishlist:item=720351795&perks=1784898267,16392701,3425386926,3365897133
+dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3365897133
+dimwishlist:item=720351795&perks=1784898267,3827198035,3425386926,3365897133
+dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,3365897133
+dimwishlist:item=720351795&perks=1784898267,16392701,706527188,3365897133
+dimwishlist:item=720351795&perks=852209214,16392701,706527188,3365897133
+dimwishlist:item=720351795&perks=1784898267,3827198035,706527188,3365897133
+dimwishlist:item=720351795&perks=852209214,3827198035,706527188,3365897133
+dimwishlist:item=720351795&perks=1784898267,16392701,201365942,201365942
+dimwishlist:item=720351795&perks=852209214,16392701,201365942,201365942
+dimwishlist:item=720351795&perks=1784898267,3827198035,201365942,201365942
+dimwishlist:item=720351795&perks=852209214,3827198035,201365942,201365942
+dimwishlist:item=720351795&perks=1784898267,16392701,3425386926,201365942
+dimwishlist:item=720351795&perks=852209214,16392701,3425386926,201365942
+dimwishlist:item=720351795&perks=1784898267,3827198035,3425386926,201365942
+dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,201365942
+dimwishlist:item=720351795&perks=1784898267,16392701,706527188,201365942
+dimwishlist:item=720351795&perks=852209214,16392701,706527188,201365942
+dimwishlist:item=720351795&perks=1784898267,3827198035,706527188,201365942
+dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942
 
 //  Shotguns
 
 // Astral Horizon
-//notes: (PvP): the kinetic mindbender, and likely to remain top tier unless felwinter 2.0 is released to the general playerbase. do not recommend for pve at all. recommended MW: range|tags:pvp
+//notes: (PvP): The kinetic Mindbender, and likely to remain top tier unless Felwinter 2.0 is released to the general playerbase. Do not recommend for PvE at all. Recommended MW: range|tags:pvp
 dimwishlist:item=1697682876&perks=1332244541,3142289711,3161816588,47981717,684616255
 dimwishlist:item=1697682876&perks=1047830412,3142289711,3161816588,47981717,684616255
 dimwishlist:item=1697682876&perks=1332244541,791862061,3161816588,47981717,684616255
@@ -6203,7 +6274,7 @@ dimwishlist:item=1697682876&perks=1332244541,679225683,706527188,47981717,269722
 dimwishlist:item=1697682876&perks=1047830412,679225683,706527188,47981717,2697220197
 
 // Hawthorne's Field-Forged Shotgun
-//notes: (PvP): a decent lightweight but lacks quickdraw, which puts it behind the like of CQC-12 but does populate the kinetic slot instead. if you have a roll like this, it's worth hanging onto unless a better lightweight kinetic is released. assault mag/accurized will be preferable over light mag. recommended MW: range|tags:pvp
+//notes: (PvP): A decent lightweight but lacks Quickdraw, which puts it behind the likes of CQC-12 but DOES populate the kinetic slot. If you have a roll like this, it's worth hanging onto unless a better lightweight kinetic is released. Assault mag/Accurized will be preferable over Light Mag. Recommended MW: range|tags:pvp
 dimwishlist:item=1807343361&perks=1332244541,791862061,2117683199,47981717,684616255
 dimwishlist:item=1807343361&perks=1047830412,791862061,2117683199,47981717,684616255
 dimwishlist:item=1807343361&perks=1332244541,3142289711,2117683199,47981717,684616255
@@ -6242,7 +6313,7 @@ dimwishlist:item=1807343361&perks=1332244541,679225683,4267945040,47981717,26972
 dimwishlist:item=1807343361&perks=1047830412,679225683,4267945040,47981717,2697220197
 
 // Hawthorne's Field-Forged Shotgun
-//notes: (PvE): easily a viable option as it can roll 1-2 punch. my god roll would include assault mag + full auto for all those sweet rpm buffs. wouldn't take this over a decent-rolled perfect paradox though. recommended MW: reload|tags:pve
+//notes: (PvE): Easily a viable option as it can roll 1-2 Punch. My god roll would include Assault Mag + full auto for all those sweet RPM buffs. Wouldn't take this over a decent-rolled Perfect Paradox though. recommended MW: reload|tags:pve
 dimwishlist:item=1807343361&perks=1300023272,791862061,2117683199,3523296417,178753455
 dimwishlist:item=1807343361&perks=4090651448,791862061,2117683199,3523296417,178753455
 dimwishlist:item=1807343361&perks=1300023272,679225683,2117683199,3523296417,178753455
@@ -6279,24 +6350,6 @@ dimwishlist:item=1807343361&perks=1300023272,679225683,4267945040,2679249093,178
 dimwishlist:item=1807343361&perks=4090651448,679225683,4267945040,2679249093,178753455
 dimwishlist:item=1807343361&perks=1300023272,106909392,4267945040,2679249093,178753455
 dimwishlist:item=1807343361&perks=4090651448,106909392,4267945040,2679249093,178753455
-dimwishlist:item=1807343361&perks=1300023272,791862061,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,791862061,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,679225683,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,679225683,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,106909392,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,106909392,2117683199,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,791862061,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,791862061,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,679225683,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,679225683,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,106909392,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,106909392,1631667848,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,791862061,4267945040,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,791862061,4267945040,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,679225683,4267945040,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,679225683,4267945040,3708227201,178753455
-dimwishlist:item=1807343361&perks=1300023272,106909392,4267945040,3708227201,178753455
-dimwishlist:item=1807343361&perks=4090651448,106909392,4267945040,3708227201,178753455
 dimwishlist:item=1807343361&perks=1300023272,791862061,2117683199,3523296417,758092021
 dimwishlist:item=1807343361&perks=4090651448,791862061,2117683199,3523296417,758092021
 dimwishlist:item=1807343361&perks=1300023272,679225683,2117683199,3523296417,758092021
@@ -6333,27 +6386,9 @@ dimwishlist:item=1807343361&perks=1300023272,679225683,4267945040,2679249093,758
 dimwishlist:item=1807343361&perks=4090651448,679225683,4267945040,2679249093,758092021
 dimwishlist:item=1807343361&perks=1300023272,106909392,4267945040,2679249093,758092021
 dimwishlist:item=1807343361&perks=4090651448,106909392,4267945040,2679249093,758092021
-dimwishlist:item=1807343361&perks=1300023272,791862061,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,791862061,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,679225683,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,679225683,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,106909392,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,106909392,2117683199,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,791862061,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,791862061,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,679225683,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,679225683,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,106909392,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,106909392,1631667848,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,791862061,4267945040,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,791862061,4267945040,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,679225683,4267945040,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,679225683,4267945040,3708227201,758092021
-dimwishlist:item=1807343361&perks=1300023272,106909392,4267945040,3708227201,758092021
-dimwishlist:item=1807343361&perks=4090651448,106909392,4267945040,3708227201,758092021
 
 // Seventh Seraph CQC-12
-//notes:"(PvE): shotguns haven't been TOO great for endgame pve content, but this one is more than serviceable going into next year. recommended MW: reload/handling"|tags:pve
+//notes:"(PvE): Shotguns haven't been TOO great for endgame PvE content, but this one is more than serviceable going into next year. Recommended MW: reload/handling"|tags:pve
 dimwishlist:item=1821724780&perks=1300023272,791862061,1556840489,2360754333
 dimwishlist:item=1821724780&perks=1300023272,791862061,1556840489,1546637391
 dimwishlist:item=1821724780&perks=1300023272,791862061,1556840489,3275789089
@@ -6368,7 +6403,7 @@ dimwishlist:item=1821724780&perks=1300023272,679225683,3300816228,3275789089
 dimwishlist:item=1821724780&perks=1300023272,679225683,3300816228,1546637391
 
 // Seventh Seraph CQC-12
-//notes: (PvP): perhaps the closest thing we have to a replacement mindbender going into next season. while it doesn't present the same ohk range, it makes up for it with a much longer 2hk range, great set of perks and lightweight bonus. recommended MW: range|tags:pvp
+//notes: (PvP): Perhaps the closest thing we have to a replacement Mindbender going into next season. While it doesn't present the same OHK range, it makes up for it with a much longer and reliable 2HK range. Great set of perks and lightweight bonus. will definitely keep one around. Recommended MW: range|tags:pvp
 dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887,684616255
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887,684616255
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887,684616255
@@ -6409,7 +6444,7 @@ dimwishlist:item=1179141605
 //  Sniper Rifles
 
 // The Supremacy
-//notes:"same with any 140, not as useful going into next season, but i think can find niche usage in pvp still. recommended MW: range
+//notes:"Same with any 140, not as useful going into next season, but I think can find niche usage in PvP still. Recommended MW: range
 dimwishlist:item=686951703&perks=1840239774,1885400500,957782887,3425386926
 dimwishlist:item=686951703&perks=1840239774,1885400500,957782887,1015611457
 dimwishlist:item=686951703&perks=1840239774,1561002382,957782887,3425386926
@@ -6420,7 +6455,7 @@ dimwishlist:item=686951703&perks=3250034553,1561002382,957782887,3425386926
 dimwishlist:item=686951703&perks=3250034553,1561002382,957782887,1015611457
 
 // Bite Of The Fox
-//notes: (PvP): the only legendary aggressive frame that'll carry over into the next season. benefits from a low-ish zoom scope, but suffers from the ugly chevron reticle. recommended MW: range|tags:pvp
+//notes: (PvP): The only legendary aggressive frame that'll carry over into the next season. Benefits from a low-ish zoom scope, but suffers from the ugly chevron reticle. Recommended MW: range|tags:pvp
 dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,588594999,684616255
 dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,588594999,684616255
 dimwishlist:item=3169616514&perks=3250034553,106909392,957782887,588594999,684616255
@@ -6519,7 +6554,7 @@ dimwishlist:item=3169616514&perks=3250034553,1431678320,280464955,47981717,26972
 dimwishlist:item=3169616514&perks=1840239774,1431678320,280464955,47981717,2697220197
 
 // Eye Of Sol
-//notes: (PvP): still haven't gotten my hands on this weapon either, but should be a serviceable kinetic sniper. celerity may be promising in clutch rounds, otherwise snapshot + opening shot is the standard combo you want. recommended MW: range|tags:pvp
+//notes: (PvP): Still haven't gotten my hands on this weapon either, but should be a serviceable kinetic sniper. Celerity may be promising in clutch rounds, otherwise Snapshot + Opening Shot is the standard combo you want. Recommended MW: range|tags:pvp
 dimwishlist:item=3164743584&perks=3250034553,3142289711,280464955,1546637391,684616255
 dimwishlist:item=3164743584&perks=1482024992,3142289711,280464955,1546637391,684616255
 dimwishlist:item=3164743584&perks=1840239774,3142289711,280464955,1546637391,684616255
@@ -6594,7 +6629,7 @@ dimwishlist:item=3164743584&perks=1482024992,1431678320,957782887,47981717,26972
 dimwishlist:item=3164743584&perks=1840239774,1431678320,957782887,47981717,2697220197
 
 // Long Shadow
-//notes: (PvP): could potentially be a viable kinetic sniper with the aim assist buffs with higher-zoomed scopes. will have to be wary of better snipers once they are introduced. recommended MW: range|tags:pvp
+//notes: (PvP): Could potentially be a viable kinetic sniper with the aim assist buffs with higher-zoomed scopes. Will have to be wary of better snipers once they are introduced. Recommended MW: range|tags:pvp
 dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999,684616255
 dimwishlist:item=3745990145&perks=893526895,106909392,957782887,588594999,684616255
 dimwishlist:item=3745990145&perks=893526895,3142289711,280464955,588594999,684616255
@@ -6621,7 +6656,7 @@ dimwishlist:item=3745990145&perks=893526895,3142289711,280464955,3038247973,2697
 dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3038247973,2697220197
 
 // Long Shadow
-//notes:"(PvE) this is a decent enough sniper for pve, with a decent perk pool. also will have to wait on what kind of snipers get released later on. recommended MW: reload"|tags:pve
+//notes:"(PvE) This is a decent enough sniper for pve, with a decent perk pool. Also will have to wait on what kind of snipers get released later on. Recommended MW: reload"|tags:pve
 dimwishlist:item=3745990145&perks=893526892,2420895100,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3400784728
@@ -6630,12 +6665,12 @@ dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728
 
 // IKELOS_SR_V1.0.2
-//notes:"not exactly the best pve or pvp sniper, but i figure quickdraw - moving target is still something worth having, especially with the hidden bonuses that seraph rounds possesses. recommended MW: range"|tags:pvp
+//notes:"Not exactly the best pve or pvp sniper, but I figure Quickdraw - Moving Target is still something worth having, especially with the hidden bonuses that Seraph Rounds possesses. recommended MW: range"|tags:pvp
 dimwishlist:item=1253087083&perks=202670084,1140096971,588594999,706527188
 dimwishlist:item=1253087083&perks=202670084,3142289711,588594999,706527188
 
 // Omniscient Eye
-//notes:"definitely iffy due to the upcoming zoom/aim assist changes, but if you get this, you can still use it. 140s still haven't been the optimal choice since the 2-body nerf. recommended MW: range"|tags:pvp
+//notes:"Definitely iffy due to the upcoming zoom/aim assist changes, but if you get this, you can still use it. 140s still haven't been the optimal choice since the 2-body nerf. Recommended MW: range"|tags:pvp
 dimwishlist:item=3454326177&perks=1840239774,3142289711,2866798147,957782887
 dimwishlist:item=3454326177&perks=1840239774,3142289711,3513791699,957782887
 dimwishlist:item=3454326177&perks=3250034553,3142289711,3513791699,957782887
@@ -6644,7 +6679,7 @@ dimwishlist:item=3454326177&perks=3250034553,3142289711,2866798147,957782887
 //  Fusion Rifles
 
 // Elatha FR4
-//notes: (PvE/PvP): HAHA fusions in pve are irrelevant though to be fair elatha can get a bye due to the fact it DOES roll with quickdraw, which is typically a better perk than backup plan due to the overall boost in handling over just one swap every so often|tags:pve,pvp
+//notes: (PvE/PvP): HAHA fusions in PvE are irrelevant though to be fair Elatha can get a bye due to the fact it DOES roll with Quickdraw, which is typically a better perk than Backup Plan due to the overall boost in handling over just one swap every so often.|tags:pve,pvp
 dimwishlist:item=-4106983932
 
 // Timeline's Vertex
@@ -6654,18 +6689,18 @@ dimwishlist:item=3055192515&perks=
 //  Grenade Launchers
 
 // Orewing's Maul
-//notes:"this has objectively a worse perk pool than truthteller, but if you have any of these rolls you may as well just hold onto it. lack of disruption break means no-go for this launcher. recommended MW: velocity/blast radius"|tags:pve
+//notes:"This has objectively a worse perk pool than Truthteller, but if you have any of these rolls you may as well just hold onto it. Lack of Disruption Break means no-go for this launcher. Recommended MW: velocity/blast radius"|tags:pve
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,3300816228
 dimwishlist:item=2108920981&perks=1478423395,1996142143,706527188,3300816228
 dimwishlist:item=2108920981&perks=1478423395,1996142143,706527188,3523296417
 dimwishlist:item=2108920981&perks=1478423395,409831596,706527188,3523296417
 
 // Truthteller
-//notes:"(PvP): a very good weapon to carry around if you like breech-loaders in pvp or just like being toxic. disruption break makes cleanups easier than ever with any kinetic (thorn especially). recommended MW: blast radius"|tags:pvp
+//notes:"(PvP): A very good weapon to carry around if you like breech-loaders in PvP or just enjoy being toxic. Disruption Break makes cleanups easier than ever with any kinetic (Thorn especially). Recommended MW: blast radius"|tags:pvp
 dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,1683379515
 
 // Truthteller
-//notes:"(PvE): a decent enough choice going into next season, i think blinding nades could be a decent replacement for wendigo in endgame pve, but we'll have to see. as with any nade launcher, if you're going spikes make sure to max velocity. recommended MW: velocity"|tags:pve
+//notes:"(PvE): A decent enough choice going into next season, I think blinding nades could be a decent replacement for Wendi in endgame PvE, but we'll have to see. As with any nade launcher, if you're going spikes make sure to max velocity. Recommended MW: velocity"|tags:pve
 dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515
 dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,1683379515
 dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,3523296417
@@ -6677,34 +6712,34 @@ dimwishlist:item=1946491241&perks=981914802,3301904089,205890336,1683379515
 dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,2458213969
 
 // Martyr's Retribution
-//notes:"i haven't really used this launcher much, but i guess it'd find some usage in both pvp or pve. you'll want to get the mini titan thermite grenade down as quickly as possible, so maxing velocity is key. recommended MW: velocity"|tags:pve,pvp
+//notes:"I haven't really used this launcher much, but I guess it'd find some usage in both PvP or PvE. You'll want to get the mini titan thermite grenade down as quickly as possible, so maxing velocity is key, as any GL's blast radius is capped at 55 (aka this one's base blast radius). Recommended MW: velocity"|tags:pve,pvp
 dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3523296417
 dimwishlist:item=3850168899&perks=981914802,2822142346,205890336,3523296417
 dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3511092054
 dimwishlist:item=3850168899&perks=981914802,2822142346,205890336,3511092054
 
 // Outrageous Fortune
-//notes:"the only serious reason to even have this in your vault is because of threat detector allowing hunters to know when to dodge in order to proc distribution/dynamo. otherwise you might as well shard everything that isn't this roll. recommended MW: blast radius"|tags:pvp
+//notes:"The only serious reason to even have this in your vault is because of Threat Detector, allowing hunters to know when to dodge in order to proc Distribution/Dynamo. Otherwise, you might as well shard everything that isn't this roll. Recommended MW: blast radius"|tags:pvp
 dimwishlist:item=4146702548&perks=1478423395,1380253176,4071163871,706527188
 
 // Interference VI
-//notes:"(PvE): probably the best grenade launcher released this season. full court/clown cartridge/spikes is a very powerful combo. as with any grenade launcher, if you plan to use spikes, max velocity. otherwise, blast radius. recommended MW: velocity/blast radius"|tags:pve
+//notes:"(PvE): Probably the best grenade launcher released this season. Full Court/Clown Cartridge/spikes is a very powerful combo. As with any grenade launcher, if you plan to use spikes, max velocity. Otherwise, blast radius. Recommended MW: velocity/blast radius"|tags:pve
 dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110
 dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417
 dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110
 
 // Interference VI
-//notes:"(PvP): it's not exactly the best, since the 1st perk column blows leaving field prep as the only viable option, but it can still roll threat detector as well as full court providing potentially better damage as opposed to launchers without it. recommended MW: blast radius"|tags:pvp
+//notes:"(PvP): It's not exactly the best, since the 3rd perk column blows leaving Field Prep as the only viable option, but it can still roll Threat Detector as well as Full Court providing potentially better damage as opposed to launchers without it. Recommended MW: blast radius"|tags:pvp
 dimwishlist:item=2257180473&perks=1478423395,1380253176,2869569095,2888557110
 dimwishlist:item=2257180473&perks=1478423395,1380253176,2869569095,3523296417
 dimwishlist:item=2257180473&perks=1478423395,1380253176,2869569095,4071163871
 
 // Berenger's Memory
-//notes:"(PvE): the worser interference this season, with only really one roll you want for pve. recommended MW: velocity"|tags:pve
+//notes:"(PvE): The worser Interference VI this season, with only really one roll you want for PvE. Recommended MW: velocity"|tags:pve
 dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3523296417
 
 // Berenger's Memory
-//notes:"(PvP): you'll essentially want the same perks as that of outrageous fortune. it's usable but nothing about it really shines with the exception of disruption break. recommended MW: blast radius"|tags:pvp
+//notes:"(PvP): You'll essentially want the same perks as that of Outrageous Fortune. It's usable but nothing about it really shines with the exception of Disruption Break. Recommended MW: blast radius"|tags:pvp
 dimwishlist:item=407621213&perks=1478423395,1380253176,4071163871,1683379515
 dimwishlist:item=407621213&perks=1478423395,1380253176,706527188,1683379515
 dimwishlist:item=407621213&perks=1478423395,1380253176,706527188,3523296417
@@ -6713,21 +6748,21 @@ dimwishlist:item=407621213&perks=1478423395,1380253176,4071163871,3523296417
 //  Rocket Launchers
 
 // Hoosegow
-//notes:"what used to be my least favorite reward from prophecy now might be a viable weapon going into BL. with it having the potential to roll with auto-loading/cluster AND impact casing, i guess it could hold some potential granted rockets are given some love. recommended MW: velocity"|tags:pve
+//notes:"What used to be my least favorite reward from prophecy now might be a viable weapon going into BL. With it having the potential to roll with Auto-Loading/Cluster AND Impact Casing, I guess it could hold some potential granted rockets are given some love. Recommended MW: velocity"|tags:pve
 dimwishlist:item=3669616453&perks=981914802,3796465595,3300816228,1275731761
 
 // Bad Omens
-//notes:"already a decent launcher, but potentially even better if rockets are given the much needed buff. as with any launcher with cluster bomb, lower blast radius = better. recommended MW: velocity"|tags:pve
+//notes:"Already a decent launcher, but potentially even better if rockets are given the much needed buff. As with any launcher with Cluster Bomb, lower blast radius = better. Recommended MW: velocity"|tags:pve
 dimwishlist:item=991314988&perks=981914802,3796465595,3300816228,1275731761
 dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761
 
 // Tomorrow's Answer
-//notes:"honestly do not know anything but the stats on this launcher, but it should be useful. recommended MW: velocity/blast radius"|tags:pve
+//notes:"Honestly do not know anything but the stats on this launcher, but it should be useful. Recommended MW: velocity/blast radius"|tags:pve
 dimwishlist:item=958384347&perks=981914802,3796465595,3977735242,1275731761,1154004463
 dimwishlist:item=958384347&perks=3525010810,3796465595,3977735242,2284787283,3803457565
 
 // Apex Predator
-//notes:honestly had it been able to roll with both cluster AND auto-loading i probably would be looking for one. but it doesn't. and it has nothing outstanding about it. personally do not recommend keeping this.
+//notes:Honestly had it been able to roll with both Cluster AND Auto-Loading I probably would be looking for one. But it doesn't. And it has nothing outstanding about it. Personally do not recommend keeping this.
 dimwishlist:item=-2545083870&perks=
 
 //  Linear Fusion Rifles
@@ -6735,40 +6770,34 @@ dimwishlist:item=-2545083870&perks=
 //  Machine Guns
 
 // Avalanche
-//notes:IT SUCKS LOL
+//notes:IT SUCKS LOL 🤢
 dimwishlist:item=-66875353&perks=
 
 // Temporal Clause
-//notes:really bad gun desperately needs buff i would not keep this regardless
+//notes:really bad gun desperately needs buff i would not keep this regardless 🤢
 dimwishlist:item=-3369545945&perks=
 
 
 //  Swords
 
 // Temptation's Hook
-//notes:"(PvE): definitely a fun weapon to have, kind of like a legendary black talon minus the strong tracking projectiles."|tags:pve
+//notes:"(PvE): Definitely a fun weapon to have, kind of like a legendary Black Talon minus the strong tracking projectiles."|tags:pve
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,3913600130
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
-dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3708227201
-dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,3708227201
 
 // Temptation's Hook
-//notes:"(PvP): as previously stated, legendary black talon though it suffers from pretty poor damage in the charged AoE attack. still, i'll probably use this from time to time."|tags:pvp
+//notes:"(PvP): As previously stated, legendary Black Talon though it suffers from pretty poor damage in the charged AoE attack. Still, I'll probably use this from time to time."|tags:pvp
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
 
 // Falling Guillotine
-//notes:"(PvE): broken ass sword currently and is getting a nerf next season, but hopefully it remains more than usable in everything. will have to suggest relentless + whirlwind over surrounded just cause surrounded will not proc in most situations." |tags:pve
+//notes:"(PvE): Broken ass sword currently and is getting a nerf next season, but hopefully it remains more than usable in everything. Will have to suggest Relentless + Whirlwind over Surrounded just cause Surrounded will not proc in most situations." |tags:pve
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3913600130
-dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3708227201
-dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201
 dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3913600130
-dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3708227201
-dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3708227201
 
 // Falling Guillotine
-//notes:"(PvP): with the potential to right click through spectral and other roaming supers i guess this isn't terrible for pvp, but it is rather niche. use wisely."|tags:pvp
+//notes:"(PvP): With the potential to right click through spectral and other roaming supers, I guess this isn't terrible for pvp but it is rather niche. Use wisely."|tags:pvp
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,1685431615
 dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,3016987351
