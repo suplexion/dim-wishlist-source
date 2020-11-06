@@ -6469,8 +6469,8 @@ dimwishlist:item=-2957367743&perks=
 dimwishlist:item=-3190698551&perks=
 
 // Prophet of Doom
-//notes: (???  ???): Precision Frame, and cannot even roll quickdraw. Unfortunate. 🤢
-dimwishlist:item=-4228109048&perks=
+//notes:Precision Frame, and cannot even roll quickdraw. Unfortunate. 🤢
+dimwishlist:item=-4020742303&perks=
 
 //  Sniper Rifles
 
