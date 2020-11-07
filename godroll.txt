@@ -7363,7 +7363,7 @@ dimwishlist:item=-4106983932
 
 // Timeline's Vertex
 //notes:fusions LMFAOFOFOFOFOFOFAOKDJASL:JFDSALKDEJF; funny
-dimwishlist:item=3055192515&perks=
+dimwishlist:item=-3055192515&perks=
 
 // Hollow Words
 //notes:Much like the Elatha, it does drop w/ QD. Though the same story with ALL fusion rifles, they are in a horrible spot whether it be PvE or PvP. 🤢
