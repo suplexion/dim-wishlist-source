@@ -1110,8 +1110,6 @@ dimwishlist:item=821154603&perks=3661387068,3230963543,3300816228,4082225868,758
 dimwishlist:item=821154603&perks=1840239774,3230963543,3300816228,4082225868,758092021
 dimwishlist:item=821154603&perks=1482024992,3230963543,3300816228,4082225868,758092021
 
-
-
 // Gnawing Hunger
 //notes:"(PvP): Perhaps the most oppressive weapon of this season, picking up the god roll (TTT/KC) even a person with shit aim will shred right through most people. Prefer TTT over Zen Moment because TTT doesn't require damage for the stability to kick in, making prefires more stable. Recommended MW: range"|tags:pvp
 dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,3425386926,684616255
