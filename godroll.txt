@@ -2,7 +2,6 @@ title: Taran's curated list of opinionated god/good rolls to look out for.
 
 description: (Disclaimer: VERY picky/PvP oriented. Anti-Surrounded.)
 
-
 //  Auto Rifles
 
 // Age-Old Bond
@@ -190,7 +189,6 @@ dimwishlist:item=1907698332&perks=839105230,1561002382,588594999,2846385770,
 dimwishlist:item=1907698332&perks=839105230,1885400500,588594999,2846385770,
 dimwishlist:item=1907698332&perks=839105230,1561002382,588594999,2846385770,
 dimwishlist:item=1907698332&perks=839105230,1885400500,588594999,2846385770,
-
 
 // Reckless Oracle
 //notes:"A strong alternative to the current 600rpm auto meta. Possesses lowest bodyshot ttk of any auto rifle frame. recommended MW: range/handling"|tags:pvp
@@ -1913,7 +1911,6 @@ dimwishlist:item=528834068&perks=839105230,679225683,3161816588,3108830275,
 dimwishlist:item=528834068&perks=1482024992,679225683,3161816588,3108830275,
 dimwishlist:item=528834068&perks=1840239774,679225683,3161816588,3108830275,
 
-
 //  Hand Cannons
 
 // Crimil's Dagger
@@ -2310,7 +2307,6 @@ dimwishlist:item=2742838700&perks=1926090092,106909392,2846385770,3523296417,
 dimwishlist:item=2742838700&perks=1926090095,106909392,2846385770,3523296417,
 dimwishlist:item=2742838700&perks=1926090093,106909392,2846385770,3523296417,
 dimwishlist:item=2742838700&perks=1926090094,106909392,2846385770,3523296417,
-
 
 // True Prophecy
 //notes: (PvP): Definitely shaping up to be a strong pick next season. Explodey bullets have always been a top tier pick on any handcannon and this one is no exception. Recommended MW: range/reload|tags:pvp
@@ -4211,7 +4207,6 @@ dimwishlist:item=568515759&perks=839105230,1561002382,4267945040,460017080,
 dimwishlist:item=568515759&perks=1482024992,1561002382,4267945040,460017080,
 dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,460017080,
 
-
 // Cold Denial
 //notes: (PvP): Solid pulse overall, worth having for pvp considering its strong perk pool. A lot of ppl overlook Pulse Monitor, but combined with Unrelenting/devourlock it proves to be a lethal combo. Recommended MW: anything but reload|tags:pvp
 dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,460017080
@@ -5110,7 +5105,6 @@ dimwishlist:item=2478792241&perks=1482024992,1885400500,4267945040,957782887,
 dimwishlist:item=2478792241&perks=3250034553,1561002382,4267945040,957782887,
 dimwishlist:item=2478792241&perks=1482024992,1561002382,4267945040,957782887,
 
-
 // Transfiguration
 //notes:"Basically there's only one real god roll here which is Rampage/Kill Clip for the crispy 2 tap across the whole map. Otherwise, any of these rolls are fine. Recommended MW: range"|tags:pvp
 dimwishlist:item=3799980700&perks=3250034553,1885400500,3425386926,1015611457,
@@ -5577,7 +5571,6 @@ dimwishlist:item=3504336176&perks=1482024992,1087426260,3124871000,588594999,
 dimwishlist:item=3504336176&perks=1840239774,1087426260,3124871000,588594999,
 
 //  Sidearms
-
 
 // The Fool's Remedy
 //notes:"I used this pistol a couple a times in rumble and thought it was pretty good, and it benefits from a solid perk pool. I'm looking for Moving Target/QD so I can just fly around the map like an angry mosquito. Recommended MW: range/reload"|tags:pvp
